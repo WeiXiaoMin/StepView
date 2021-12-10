@@ -2,11 +2,12 @@ package com.baoyachi.stepview.demo.fragment;
 
 import android.app.Fragment;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import androidx.annotation.Nullable;
+import androidx.core.content.ContextCompat;
 
 import com.baoyachi.stepview.VerticalStepView;
 import com.baoyachi.stepview.demo.R;
